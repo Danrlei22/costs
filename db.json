@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "id": "2ab5",
+      "name": "Projeto Atualizado",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "3c86",
+      "name": "Atualizao da Empresa LTDa",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "serviço 2",
+          "cost": "2000",
+          "description": "O que mata é acreditar em mulher vagabunda",
+          "id": "0ed66a0f-9035-4b7c-9c2b-41445f92990a"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
